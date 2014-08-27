@@ -1,0 +1,23 @@
+Para la creacion de la aplicacion Web se utilizaron las siguientes herramientas y tecnologias.
+
+IDE: NetBeans 8
+Todo el desarrollo en general fue escrito en este entorno, se utilizo para la ejecucion y depuracion de la aplicacion.
+
+
+BASE DE DATOS: MySQL
+Fue el motor seleccionado para la base de datos.
+
+
+SERVIDOR DE APLICACION WEB: Apache Tomcat 8
+Este servidor fue utilizado para la ejecucion de la tecnologia de Java JEE para paginas Web JSP.
+
+
+TECNOLOGIA WEB:
+El diseño de la pagina fue hecho auxiliandose de Bootstrap 3.2.0 y JQuery.
+
+
+TECNOLOGIA DE REPORTES: Jasper Reports
+Para generar los informes en formato PDF en la pagina se utilizo IReports para diseñar los informes y ser invocados desde la pagina web con las librerias de Jasper Reports.
+
+
+Estas fueron las herramientas principale para crear la aplicacion web.
