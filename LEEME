@@ -1,0 +1,15 @@
+Proyecto Web "Iglesia Limpia tus Pecados"
+
+Este proyecto esta diseñado para ayudar a las gestiones administrativas de la iglesia "Limpia tus Pecados" el sistema tiene las siguientes funciones:
+
+- Registro de Miembros
+- Registro de asistencia de miembros a actividades.
+- Registro de actividades.
+- Registro de Ingresos.
+- Registro de Egresos.
+- Reporte de Ingresos y Egresos por fecha.
+- Reporte del Balance de Ingresos por fecha.
+
+El proyecto esta programado en el lenguaje Java haciendo uso de paginas JSP, utilizando el patron de desarrollo MVC.
+
+La base de datos fue diseñada y puesta en produccion en MYSQL.
